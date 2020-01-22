@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filipedeschamps/devradar.git"
+    "url": "git+https://github.com/ferreiraluisantonio/devradar.git"
   },
-  "author": "filipedeschamps",
+  "author": "ferreiraluisantonio",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/filipedeschamps/devradar/issues"
+    "url": "https://github.com/ferreiraluisantonio/devradar/issues"
   },
-  "homepage": "https://github.com/filipedeschamps/devradar#readme",
+  "homepage": "https://github.com/ferreiraluisantonio/devradar#readme",
   "dependencies": {
     "axios": "^0.19.1",
     "cors": "^2.8.5",
